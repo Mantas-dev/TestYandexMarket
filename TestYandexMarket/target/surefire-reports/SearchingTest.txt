@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: SearchingTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 10.25 s <<< FAILURE! - in SearchingTest
+Initialize(SearchingTest)  Time elapsed: 9.727 s  <<< FAILURE!
+java.lang.AssertionError: expected [Ð¯Ð½Ð´ÐµÐºÑ.ÐœÐ°Ñ€ÐºÐµÑ‚ â€” Ð²Ñ‹Ð±Ð¾Ñ€ Ð¸ Ð¿Ð¾ÐºÑƒÐ¿ÐºÐ° Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð¸Ð· Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐµÐ½Ð½Ñ‹Ñ… Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð¾Ð²] but found [ßíäåêñ.Ìàðêåò — âûáîð è ïîêóïêà òîâàðîâ èç ïðîâåðåííûõ èíòåðíåò-ìàãàçèíîâ]
+	at SearchingTest.Initialize(SearchingTest.java:25)
+
